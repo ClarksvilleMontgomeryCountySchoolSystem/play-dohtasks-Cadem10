@@ -1,6 +1,6 @@
 def main():
-    color1 = "brown"
-    color2 = "tan"
+    color1 = "blue"
+    color2 = "brown"
     print(f"1) Roll a ball using {color1} for the body.\n")
     choice1 = input("hot dog or round like a ball? ")
     if choice1 == "hot dog":
