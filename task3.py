@@ -1,5 +1,5 @@
 def main():
-    color1 = "gray"
+    color1 = "blue"
     color2 = "pink"
     print(f"1) Roll a ball using {color1}.\n")
     choice1 = input("long body or round body? ")
